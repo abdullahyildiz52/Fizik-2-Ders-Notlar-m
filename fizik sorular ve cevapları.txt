@@ -1,0 +1,308 @@
+1. "Nötr atom" teriminin ne anlama geldiğini açıklayınız.
+"Negatif yüklü atom "un ne anlama geldiğini açıklayınız.
+
+S23.1 Nötr bir atom net yükü olmayan bir atomdur. Bu şu anlama gelir
+çekirdeğin etrafında dönen aynı sayıda elektrona sahiptir.
+çekirdekteki protonlar. Negatif yüklü bir atomda bir veya
+daha fazla fazla elektron.
+============================================================
+2. Yüklü bir tarak genellikle küçük kuru kağıt parçalarını çeker.
+sonra tarağa dokunduklarında uçup giderler. Açıklayın.
+
+S23.2 Tarak yakındayken, kağıttaki moleküller polarize olur,
+Şekil 23.5a'daki duvardaki moleküllere benzer ve
+kağıt çekilir. Temas sırasında, taraktan gelen yük
+iletim yoluyla kağıda aktarılır. Daha sonra kağıt
+tarakla aynı yüke sahiptir ve itilir.
+========================================
+3. Kıvılcımlar genellikle kuru bir günde kumaşlar tarağa değdiğinde görülür veya duyulur.
+loş ışıkta bir çamaşır kurutma makinesinden çıkarılır. Açıklayın.
+
+S23.3 Çamaşır kurutma makinesi, birbirine benzemeyen malzemeleri birbirine sürterken
+giysileri yuvarlar. Elektronlar bir türden diğerine aktarılır.
+bir molekülden diğerine. Kumaş parçaları üzerindeki yükler ya da
+indüksiyonla yüklenen yakındaki nesneler, güçlü
+iyonlaşma sürecini teşvik eden elektrik alanları
+kıvılcım oluşması için gerekli olan havayı çevreler. O zaman sen
+kıvılcımları duymak veya görmek.
+==============================================================
+
+4. Hastane personeli özel iletken ayakkabılar giymelidir
+bir ameliyathanede oksijenle çalışırken. Neden?
+İnsanların lastik tabanlı ayakkabı giymesi durumunda neler olabileceği ile karşılaştırın.
+
+S23.4 Kıvılcım çıkmasını önlemek için. Kauçuk tabanlı ayakkabılar zemine sürtünerek yük kazanır ve
+bir kıvılcımla deşarj olur ve muhtemelen oksijence zengin atmosferdeki herhangi bir yanıcı maddenin patlamasına neden olur.
+
+================================================================================================================0
+
+5. Atomik bir bakış açısından yükün neden genellikle
+elektronlar tarafından aktarılır.
+
+S23.5 Elektronlar protonlardan daha az kütleli ve daha hareketlidir. Ayrıca, atomlardan daha kolay ayrılırlar.
+atomlar protonlardan daha fazladır.
+
+=========================================================0
+
+6. Hafif, yüksüz metalik bir küre bir
+iplik yüklü bir kauçuk çubuğa çekilir. Sonra
+çubuğa değdiğinde, küre çubuk tarafından itilir. Açıklayınız.
+
+S23.6 Yüklü çubuktan kaynaklanan elektrik alanı, kürenin yakın ve uzak taraflarında yüklere neden olur. Bu yükler
+çubuğun kürenin yakın tarafındaki farklı yük üzerindeki çekici Coulomb kuvveti daha büyüktür
+çubuğun kürenin uzak tarafındaki benzer yük üzerindeki itici Coulomb kuvvetinden daha büyüktür. Bu da
+Sonuç, kürenin çubuğa net bir şekilde çekilmesidir. Küre çubuğa dokunduğunda, yük
+çubuk ve küre arasında iletilir ve hem çubuğu hem de küreyi benzer yüklü bırakır. Bu itici bir Coulomb kuvvetine neden olur.
+
+========================================0
+
+7. Tropikal bir ülkede büyümüş ancak şu anda
+Amerika Birleşik Devletleri'nde eğitim görenlerin hiçbir deneyimi olmayabilir
+statik elektrik kıvılcımları veya şokları ile ilk önce
+bir Amerikan kışı yaşar. Açıklayın.
+
+S23.7 Su hariç havanın tüm bileşenleri polar değildir. Havadaki polar su molekülleri oldukça
+Elektrostatiği öğretmeye çalışan herhangi bir fizik öğretmeni gibi, yüklü bir nesneden kolayca yük "çalabilir"
+yaz aylarında yapılan gösterileri iyi bilir. Sonuç olarak - büyük miktarlarda
+Nemli bir iklimde bir nesne üzerindeki aşırı yük. Kuzey Amerika kışı boyunca, soğuk ve kuru hava
+önemli ölçüde fazla yük birikmesine izin vererek şok edici bir potansiyel (kelime oyunu amaçlı) sağlar
+(kelime oyunu da amaçlanmıştır) statik elektrik kıvılcımlarına giriş
+
+=========================================================000
+
+8. Newton'un kış deneyimleri arasındaki benzerlik ve farklılıkları açıklayınız.
+evrensel çekim yasası ve Coulomb yasası.
+
+S23.8 Benzerlikler: Bir yerçekimi kuvveti, aşağıdakilerin içsel özelliklerinin (kütlelerinin) çarpımı ile orantılıdır
+ve ayırma mesafesinin karesi ile ters orantılıdır. Elektriksel bir kuvvet
+yükün içsel özellik olmasıyla aynı orantıları sergiler.
+Farklılıklar: Elektriksel kuvvet çekme ya da itme etkisi gösterirken, yerçekimi kuvveti
+Newton yasası tarafından tanımlanan sadece çekebilir. Temel parçacıklar arasındaki elektriksel kuvvet
+yerçekimi kuvvetinden çok daha güçlüdür.
+
+=======================================================================0
+
+9
+Bir balon sürtünme ile negatif yüklenir ve sonra yapışır
+bir duvara. Bu, duvarın olumlu olduğu anlamına mı geliyor?
+yüklü mü? Balon neden sonunda düşer?
+
+S23.9 Hayır. Balon duvardaki moleküllerin kutuplaşmasına neden olur, böylece pozitif yüklü bir tabaka oluşur.
+balonun yakınında bulunmaktadır. Bu tıpkı Şekil 23.5a'daki durum gibidir, ancak işaretler
+yükler tersine çevrilir. Bu yükler ile balon üzerindeki negatif yükler arasındaki çekim
+balon üzerindeki negatif yükler ile negatif yükler arasındaki itme kuvvetinden daha güçlüdür.
+polarize moleküllerde (balondan daha uzakta oldukları için), böylece net bir çekici
+duvara doğru kuvvet uygular. Balonu çevreleyen havadaki iyonlaşma süreçleri, iyonların
+Balondaki fazla elektronlar transfer olabilir, balon üzerindeki yükü azaltır ve sonunda
+Bu da çekici kuvvetin balonun ağırlığını desteklemekte yetersiz kalmasına neden olur.
+
+==========================================================================================
+
+10. Hafif bir alüminyum folyo şeridi yatay bir balonun üzerine
+tahta kalem. Pozitif yük taşıyan bir çubuk
+folyoya yaklaştırıldığında, folyonun iki parçası durur
+ayrı. Neden? Folyo üzerinde ne tür bir yük var?
+
+S23.10 Yüklü çubuktan kaynaklanan elektrik alanı alüminyum folyoda bir yüke neden olur. Eğer çubuk
+yukarıdan alüminyuma doğru, alüminyumun üst kısmında indüklenen negatif bir yük olacaktır.
+kalemin üzerine dökülen kısımlar ise üzerlerinde pozitif bir yüke neden olabilir. Bunlar
+İki parça üzerindeki pozitif indüklenmiş yükler itici bir Coulomb kuvvetine yol açar. Eğer kalem bir
+iyi bir yalıtkan ise, alüminyum üzerindeki net yük sıfır olabilir.
+======================================================000
+
+11. Elektrik alanını tanımlarken, aşağıdakileri yapmak neden gereklidir
+test yükünün büyüklüğünün çok küçük olduğunu belirtiniz?
+
+S23.11 Yani test yükü tarafından yaratılan elektrik alanı, oluşturmaya çalıştığınız elektrik alanını bozmaz.
+onu yaratan yükleri hareket ettirerek ölçebilirsiniz.
+=========================================================0
+
+12. Bir elektrik alanını deneysel olarak nasıl ayırt edebilirsiniz?
+bir yerçekimi alanından mı?
+
+S23.12 Çok yüksek bir bütçeyle, önce bir protonu sonra da bir elektronu boşaltılmış bir
+alanın var olduğu bölge. Eğer alan kütleçekimsel ise, her iki parçacık da şu yönde bir kuvvete maruz kalacaktır
+aynı yönde, alan elektrik ise zıt yönlerde kuvvetlere maruz kalacaklardır.
+Daha pratik bir ölçekte, bir kürdanın her iki ucuna özdeş özlü toplar yapıştırın. Bir özü yükleyin
+top + ve diğeri -, büyük ölçekli bir dipol oluşturur. Bu dipolü dikkatlice kendi merkezi etrafında asın
+Böylece serbestçe dönebilir. Söz konusu alanda asılı kaldığında, dipol şu yönde dönecektir
+Elektrik alanı ile hizalanırken, yerçekimi alanı için hizalanmayacaktır. Eğer test cihazı
+ile hizalanmış olması ihtimaline karşı alana birden fazla yönde yerleştirdiğinizden emin olun.
+ilk denemede yerleştirdiğinizde elektrik alanı.
+
+=====================================================00
+
+13. Topraktan yalıtılmış büyük bir metalik küre
+bir elektrostatik jeneratör ile bir öğrenci ayakta dururken
+Yalıtkan bir tabure küreyi tutar. Bunu yapmak neden güvenli?
+Bu mu? Neden başka bir kişinin dokunması güvenli olmasın?
+küre şarj edildikten sonra?
+
+S23.13 Yalıtkan platform üzerinde duran öğrenci, yalıtkan platform ile aynı elektrik potansiyelinde tutulur.
+jeneratör küresi. Yük sadece potansiyelde bir fark olduğunda akacaktır. Öğrenci kim
+Yüklü küreye dikkatsizce dokunulduğunda, yüklü küreye kıyasla elektrik potansiyeli sıfıra yakındır.
+küre. Öğrenci küre ile temas ettiğinde, yük küreden ona doğru akacaktır
+ya da aynı elektriksel potansiyele gelene kadar onu.
+
+=================================================================
+
+14. Boş uzayda bir elektrik alanının var olması mümkün müdür?
+Açıklayınız. Şekil 23.23(a)'daki A noktasını düşünün. Yük
+bu noktada var mı? Bu noktada bir güç var mı? Bir
+alan bu noktada mevcut mu?
+
+S23.14 Pozitif veya negatif bir yük tarafından bir kez oluşturulan bir elektrik alanı, yükün bulunduğu noktadan her yöne doğru uzanır.
+yük. Dolayısıyla, eğer yükü çevreleyen şey buysa, boş uzayda var olabilir. Yükün içinde hiçbir madde yoktur.
+Şekil 23.23(a)'daki A noktası, dolayısıyla ne bir yük ne de bir kuvvet vardır. Eğer bir kuvvet olsaydı
+Ancak A noktasında yük mevcuttu. A noktasında bir alan mevcuttur.
+=========================================================================
+15. Bir yük dağılımını bir alan ile yaklaşık olarak tahmin etmek ne zaman geçerlidir?
+nokta şarjı?
+
+S23.15 Eğer bir yük dağılımı, bir alan noktasının ondan uzaklığına kıyasla küçükse, yük
+dağılımının net yüküne eşit yüke sahip tek bir parçacık olarak modellenebilir.
+dağılımıdır. Ayrıca, bir yük dağılımı küresel olarak simetrikse, dışta bir alan yaratacaktır
+tıpkı tüm yükünün merkezinde noktasal bir yük varmış gibi.
+==============================================================00
+
+16. Elektrik alan çizgilerinin neden asla kesişmediğini açıklayın. Öneri:
+Belirli bir noktadaki elektrik alanının neden kesişmediğini açıklayarak başlayın.
+noktasının yalnızca bir yönü olmalıdır.
+
+S23.16 Elektrik alanının yönü, pozitif bir test yükünün bir kuvvet hissedeceği yöndür
+alana yerleştirildiğinde. Bir yük aynı anda iki elektrik kuvvetine maruz kalmayacaktır, ancak
+ikisinin vektörel toplamı. Eğer elektrik alan çizgileri kesişiyorsa, o zaman bir test yükü şu noktaya yerleştirilir
+iki yönde bir kuvvet hissedeceklerdir. Ayrıca, test yükünün geçeceği yol
+Alan çizgilerinin kesiştiği noktada serbest bırakılırsa takip belirsiz olacaktır.
+
+=====================================================================================0
+
+17. Şekil 23.14 ve 23.15 üç elektrik alan vektörünü göstermektedir
+aynı noktada. Küçük bir ekstrapolasyonla, Şekil
+ 'de birçok elektrik alan çizgisi gösterecektir.
+aynı nokta. "İki alan çizgisinin aynı noktada bulunamayacağı" gerçekten doğru mu?
+çapraz''? Diyagramlar doğru çizilmiş mi? Açıklayınız
+cevaplar.
+
+S23.17 Her iki şekil de doğru çizilmiştir. E1 ve E2 noktaları tarafından ayrı ayrı oluşturulan elektrik alanlarıdır.
+Şekil 23.14'te q1 ve q2 yükleri veya Şekil 23.15'te sırasıyla q ve -q yükleri. Net elektrik alanı
+E1 ve E2'nin vektörel toplamı, E olarak gösterilir. Şekil 23.21 her noktada sadece bir elektrik alan çizgisi gösterir
+yükten uzağa. Noktasal yük olarak modellenen bir nesnenin nokta konumunda, yükün yönü
+Alan tanımsızdır ve büyüklüğü de öyle.
+============================================0
+
+18. Serbest bir elektron ve serbest bir proton aynı anda serbest bırakılır.
+elektrik alanları. İki parçacık üzerindeki elektrik kuvvetlerini karşılaştırın. İvmelerini karşılaştırın.
+
+S23.18 Parçacıklar üzerindeki elektrik kuvvetleri aynı büyüklüğe sahiptir, ancak zıt yönlerdedir. Bu durumda
+elektron, protondan çok daha büyük bir ivmeye (yaklaşık 2 000 kat) sahip olacaktır.
+çok daha küçük kütle.
+================================
+19. Elektrik akımının büyüklüğüne ne olduğunu açıklayın
+r sıfıra yaklaştıkça noktasal bir yük tarafından oluşturulan alan.
+
+S23.19 Noktasal bir yükün etrafındaki elektrik alanı r sıfıra yaklaştıkça sonsuza yaklaşır.
+==========================================================================
+
+20. Negatif yüke sahip bir cisim, aşağıdaki bir bölgeye yerleştirilir
+elektrik alanının dikey olarak yukarı doğru yönlendirildiği bir uzay.
+Buna uygulanan elektrik kuvvetinin yönü nedir?
+ücret?
+
+S23.20 Dikey olarak aşağıya doğru.
+=========================================
+
+21. Bir 4q yükü, bir q yükünden r uzaklığındadır.
+4q yükünü terk eden elektrik alan çizgilerinin sayısı
+"q. Ücretlendirmeye giren numara ile
+4q sonunda başlayan ekstra satırlar?
+
+S23.21 Büyük yükün yüzeyinde başlayan elektrik alan çizgilerinin dört katı küçük yükün yüzeyinde sonlanır.
+yük. Ekstra çizgiler yük çiftinden uzağa doğru uzanır. Hiç bitmeyebilir ya da
+daha uzak negatif yükler üzerinde sonlanır. Şekil 23.24 +2q ve -q yükleri için durumu göstermektedir.
+================================================================================================================
+
+22. Birbirinden bir miktar ayrılmış iki eşit noktasal yük düşünün.
+mesafe d. Hangi noktada (4 dışında) üçüncü bir test yapılmalıdır?
+yükü net kuvvet hissetmez mi?
+
+S23.22 İki değişimin tam ortasındaki bir noktada.
+==============================================0
+
+23. Doğrusal, yüzey ve yük arasındaki farkları açıklayınız.
+hacim yük yoğunlukları ve her birinin ne zaman
+kullanılacaktır.
+
+S23.23 Doğrusal yük yoğunluğu, λ, birim uzunluk başına yüktür. Elektrik yükünü belirlemeye çalışırken kullanılır.
+yüklü bir çubuk tarafından oluşturulan alan.
+Yüzey yük yoğunluğu, σ, birim alan başına yüktür. Elektrik alanını belirlerken kullanılır
+yüklü bir tabaka veya diskin üzerinde.
+Hacim yük yoğunluğu, ρ, birim hacim başına yüktür. Elektrik yükünü belirlerken kullanılır.
+Yalıtkan malzemeden yapılmış düzgün yüklü bir küreye bağlı alan.
+====================================================================00
+
+24. Eğer Şekil 23.26'daki elektron elektrik
+alanı ile keyfi bir hız vi (keyfi bir açıyla
+E), yörüngesi hala parabolik mi olacaktır? Açıklayın.
+
+S23.24 Evet, yol hala parabolik olacaktır. Elektron üzerindeki elektriksel kuvvet aşağı doğrudur.
+Yön. Bu, bir binanın çatısından yatay olarak veya belli bir açıyla top atmaya benzer
+dikey ile. Her iki durumda da, yerçekiminden kaynaklanan ivme aşağı doğrudur ve parabolik bir
+yörünge.
+==================================
+
+25
+Elektron pozitif olsaydı yaşam farklı olur muydu?
+yüklü ve proton negatif yüklü müydü? Proton
+işaret seçiminin fiziksel ve kimyasal etkiler üzerinde herhangi bir etkisi vardır.
+etkileşimler? Açıklayınız.
+
+S23.25 Hayır. Elektronlar + yüklü ve protonlar - yüklü olsaydı yaşam farklı olmazdı. Tersi
+yükler yine de çekecek ve benzer yükler itecektir. + ve - yüklerin isimlendirilmesi sadece bir
+kongre.
+===============================
+
+26. Neden bir topraklama kablosu metale bağlanmalıdır?
+televizyon anteni için destek çubuğu?
+
+S23.26 Eğer anten topraklanmamışsa, bir fırtına sırasında atmosferdeki elektrik yükleri
+Anten yüksek bir pozitif veya negatif potansiyelde. Anten daha sonra televizyon setini
+Evin içinde yüksek voltajda, şok tehlikesi yaratacak şekilde. Toprağa giden kablo
+Anten, televizyon seti ve hatta antenin etrafındaki hava bile sıfıra yakın potansiyeldedir.
+=============================0
+
+27. Diyelim ki birisi insanların
+Dünya'ya yerçekiminden ziyade elektrik kuvvetleriyle bağlıdır. Bu fikrin yanlış olduğunu nasıl kanıtlayabilirsiniz?
+
+S23.27 İnsanların hepsi Dünya'ya doğru çekilir. Eğer bu kuvvet elektrostatik olsaydı, insanların hepsi yük taşırdı.
+aynı işarete sahiptir ve birbirlerini iterler. Bu itme gözlemlenmemiştir. Değiştirdiğimizde
+Bölümün açılış fotoğrafında olduğu gibi, bir kişiye yüklendiğinde, kişinin ağırlığı değişecektir
+büyüklükte veya yönde. Bir uçağı sadece elektriğini boşaltarak havaya kaldırabiliriz.
+şarj edin. Bu tür deneylerin başarısız olması, Dünya'ya olan çekimin yükten kaynaklanmadığının kanıtıdır.
+elektriksel kuvvetler.
+
+===============================00
+
+28. Boş uzayda iki elektrik dipolü düşünün. Her bir dipol
+sıfır net yüke sahiptir. Aralarında bir elektrik kuvveti var mıdır?
+dipoller - yani, net yükü sıfır olan iki nesne
+birbirlerine elektrik kuvveti uygularlar mı? Eğer öyleyse, kuvvet bir midir?
+çekim mi yoksa itme mi?
+
+S23.28 Özel yönelimlerde iki dipol arasındaki kuvvet sıfır ya da itme kuvveti olabilir. Genel olarak
+her dipol diğerine bir tork uygulayacak ve eksenini ilk dipolün yarattığı alanla aynı hizaya getirme eğiliminde olacaktır.
+dipol. Bu hizalamadan sonra, her bir dipol diğeri üzerinde bir çekim kuvveti uygular.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
